@@ -17,22 +17,18 @@ switch (opcion)
     case 1:
         resultado = calc.Sumar(num1, num2);
         break;
-        
-        case 4:
-        
-        if (num2 != 0)
-        {
-            resultado = calc.Dividir(num1, num2);
-        }
-        else
-        {
-            Console.WriteLine("Error: No se puede dividir entre cero.");
-            return;
-        }
-        break;
+
+    
     default:
         Console.WriteLine("Opción no válida.");
         return;
+    case 2:
+        resultado = calc.Restar(num1, num2);
+        break;
+    case 3:
+        resultado = calc.Multiplicar(num1, num2);
+        break;
+
 }
 
 Console.WriteLine($"El resultado es: {resultado}");

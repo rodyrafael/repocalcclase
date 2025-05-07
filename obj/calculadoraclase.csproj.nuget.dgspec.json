@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\yhonam\\repositorio2\\repocalcclase\\calculadoraclase.csproj": {}
+    "D:\\CLONACION DE TRABAJO EN GRUPO\\nuevo\\repocalcclase\\calculadoraclase.csproj": {}
   },
   "projects": {
-    "D:\\yhonam\\repositorio2\\repocalcclase\\calculadoraclase.csproj": {
+    "D:\\CLONACION DE TRABAJO EN GRUPO\\nuevo\\repocalcclase\\calculadoraclase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\yhonam\\repositorio2\\repocalcclase\\calculadoraclase.csproj",
+        "projectUniqueName": "D:\\CLONACION DE TRABAJO EN GRUPO\\nuevo\\repocalcclase\\calculadoraclase.csproj",
         "projectName": "calculadoraclase",
-        "projectPath": "D:\\yhonam\\repositorio2\\repocalcclase\\calculadoraclase.csproj",
+        "projectPath": "D:\\CLONACION DE TRABAJO EN GRUPO\\nuevo\\repocalcclase\\calculadoraclase.csproj",
         "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
-        "outputPath": "D:\\yhonam\\repositorio2\\repocalcclase\\obj\\",
+        "outputPath": "D:\\CLONACION DE TRABAJO EN GRUPO\\nuevo\\repocalcclase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

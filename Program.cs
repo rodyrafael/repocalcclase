@@ -1,4 +1,3 @@
-using System.Collections;
 using calculadoraclase.Logica;
 
 Calculadora calc = new();
@@ -18,10 +17,22 @@ switch (opcion)
     case 1:
         resultado = calc.Sumar(num1, num2);
         break;
-
-    case 4:
-        resultado = calc.dividir(num1, num2);
+        
+        case 4:
+        
+        if (num2 != 0)
+        {
+            resultado = calc.Dividir(num1, num2);
+        }
+        else
+        {
+            Console.WriteLine("Error: No se puede dividir entre cero.");
+            return;
+        }
         break;
+    default:
+        Console.WriteLine("Opción no válida.");
+        return;
 }
-Console.WriteLine($"El resultado es: {resultado}");
 
+Console.WriteLine($"El resultado es: {resultado}");

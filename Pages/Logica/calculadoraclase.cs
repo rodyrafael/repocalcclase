@@ -7,7 +7,7 @@ namespace calculadoraclase.Logica
             return a + b;
         }
 
-        public double dividir(double a , double b)
+        public double Dividir(double a , double b)
         {
             return a / b;
         }

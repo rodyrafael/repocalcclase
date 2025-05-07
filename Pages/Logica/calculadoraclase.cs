@@ -6,5 +6,10 @@ namespace calculadoraclase.Logica
         {
             return a + b;
         }
+
+        public double Restar(double a, double b)
+        {
+            return a - b;
+        }
     }
 }

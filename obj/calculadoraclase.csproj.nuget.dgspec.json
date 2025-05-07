@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repocalculadoraclase\\calculadoraclase\\calculadoraclase.csproj": {}
+    "D:\\CLONACION DE TRABAJO EN GRUPO\\repocalcclase\\calculadoraclase.csproj": {}
   },
   "projects": {
-    "D:\\repocalculadoraclase\\calculadoraclase\\calculadoraclase.csproj": {
+    "D:\\CLONACION DE TRABAJO EN GRUPO\\repocalcclase\\calculadoraclase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repocalculadoraclase\\calculadoraclase\\calculadoraclase.csproj",
+        "projectUniqueName": "D:\\CLONACION DE TRABAJO EN GRUPO\\repocalcclase\\calculadoraclase.csproj",
         "projectName": "calculadoraclase",
-        "projectPath": "D:\\repocalculadoraclase\\calculadoraclase\\calculadoraclase.csproj",
+        "projectPath": "D:\\CLONACION DE TRABAJO EN GRUPO\\repocalcclase\\calculadoraclase.csproj",
         "packagesPath": "C:\\Users\\AlumnoETI\\.nuget\\packages\\",
-        "outputPath": "D:\\repocalculadoraclase\\calculadoraclase\\obj\\",
+        "outputPath": "D:\\CLONACION DE TRABAJO EN GRUPO\\repocalcclase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

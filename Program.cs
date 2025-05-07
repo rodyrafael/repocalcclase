@@ -1,3 +1,4 @@
+using System.Collections;
 using calculadoraclase.Logica;
 
 Calculadora calc = new();
@@ -17,5 +18,10 @@ switch (opcion)
     case 1:
         resultado = calc.Sumar(num1, num2);
         break;
+
+    case 4:
+        resultado = calc.dividir(num1, num2);
+        break;
 }
 Console.WriteLine($"El resultado es: {resultado}");
+

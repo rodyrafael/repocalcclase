@@ -17,5 +17,8 @@ switch (opcion)
     case 1:
         resultado = calc.Sumar(num1, num2);
         break;
+    case 3:
+        resultado = calc.Multiplicar(num1, num2);
+        break;
 }
 Console.WriteLine($"El resultado es: {resultado}");
